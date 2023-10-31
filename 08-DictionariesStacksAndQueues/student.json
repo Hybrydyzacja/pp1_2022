@@ -1,0 +1,14 @@
+{
+    "name": "John",
+    "surname": "Black",
+    "active": true,
+    "best_grade": 6,
+    "hobbies": [
+        "reading",
+        "swimming"
+    ],
+    "number": {
+        "phone": 12365,
+        "indeks": "98745"
+    }
+}

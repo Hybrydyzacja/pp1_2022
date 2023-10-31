@@ -1,0 +1,9 @@
+# Write a program that calculates the sum of integer numbers in the range of <100..150>.
+
+sum = 0
+
+for i in range(100,151):
+    sum = sum + i
+    # sum += i taki sam rezultat
+    print(sum)
+

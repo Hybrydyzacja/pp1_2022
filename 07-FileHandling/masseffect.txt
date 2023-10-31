@@ -1,0 +1,203 @@
+
+Mass Effect 3
+ReadMe File - March 2012
+
+
+Contents:
+- System Requirements
+- Digital Retail Installation
+- Installing Mass Effect 3
+- Uninstalling Mass Effect 3
+- Removing Save Data
+- Optimizing Gameplay
+- Importing a Mass Effect 2 Career
+- Known Issues
+- Online Ports
+- Support & Troubleshooting
+- Special Thanks
+
+
+System Requirements
+-------------------
+Minimum System Requirements
+OS		Windows XP SP3/Windows Vista SP1/Windows 7
+CPU		1.8 GHz Intel Core 2 Duo (or equivalent AMD CPU)
+RAM		1GB for XP / 2GB RAM for Vista/Win 7
+Disc Drive	1x speed
+Hard Drive	15 GB of free space
+Video		256 MB* (with Pixel Shader 3.0 support)
+Sound		DirectX 9.0c compatible
+DirectX		DirectX 9.0c August 2009 (included)
+Input		Mouse & Keyboard
+
+Online Connection Requirements: Internet connection is required to play. 
+
+*Supported chipsets: NVIDIA 7900 or better; ATI X1800 or better.
+Please note that NVIDIA GeForce 9300, 8500, 8400, and 8300 are below
+minimum system requirements, as are AMD/ATI Radeon HD3200, HD3300,
+and HD4350. Updates to your video and sound card drivers may be
+required.
+
+Recommended System Requirements
+OS		Windows XP SP3/Vista SP1, Win 7
+CPU		2.4 GHz Intel Core 2 Duo (or equivalent AMD CPU)
+RAM		2GB for XP / 4GB RAM for Vista/Win 7
+Disc Drive	1x speed
+Hard Drive	15 GB of free space
+Video		AMD/ATI Radeon HD 4850 512 MB or greater
+		NVidia GeForce 9800 GT / GTX 550 Ti 512 MB or greater
+Sound		DirectX 9.0c compatible
+
+NOTES
+For the best results, make sure you have the latest drivers for your
+video and audio cards.
+
+Laptop or mobile versions of the above supported video cards have
+not had extensive testing and may have driver or other performance
+issues. As such, they are not officially supported in Mass Effect 3.
+
+S3 video cards are not officially supported in Mass Effect 3.
+
+
+Digital Retail Installation
+---------------------------
+Please contact the digital retailer through whom you purchased this
+game for instructions on how to install the game or how to download
+and reinstall another copy of the game.
+
+Note: If you�d like additional information about your game as well as
+tips and patches, please visit www.ea.com or store.origin.com.
+
+
+Installing Mass Effect 3
+------------------------
+To install Mass Effect 3, insert the first disc into your DVD drive
+and follow the on-screen instructions.
+
+If the AutoPlay screen does not automatically appear after inserting
+the Mass Effect 3 PC DVD into your DVD drive, follow these steps:
+
+1. Close all running programs.
+2. Ensure that the Mass Effect 3 PC DVD #1 is in your DVD drive.
+3. Open Windows Explorer or My Computer.
+4. Double-click the DVD icon.
+5. Double-click on the Setup.exe icon to launch the installer.
+6. Follow the on-screen instructions to install the game. 
+
+
+Uninstalling Mass Effect 3
+------------------------
+To uninstall Mass Effect 3 from Windows XP:
+1. Access the Mass Effect 3 Uninstaller from the Control Panel's
+   "Add/Remove Programs" applet.
+2. Run the Mass Effect 3 Uninstaller.
+3. Follow the on-screen instructions.
+  
+To uninstall Mass Effect 3 from Windows Vista or Windows 7:
+1. Access the Mass Effect 3 Uninstaller from the Control Panel's
+   "Programs and Features" applet.
+2. Run the Mass Effect 3 Uninstaller.
+3. Follow the on-screen instructions.
+
+
+Removing Save Data
+------------------
+Save data can be manually removed by deleting the following directory:
+<My Documents>\BioWare\Mass Effect 3\Save
+
+
+Optimizing Gameplay
+-------------------
+Mass Effect 3 will attempt to read the system specifications of the
+computer at game startup and automatically choose graphic options
+appropriate for the hardware. These settings are chosen based on the
+device ID of your video card.
+
+To customize graphics settings to your own values, do so via the options
+GUI or the configuration utility. 
+
+The following settings have the greatest impact on frame rate:
+
+Resolution - This significantly affects performance and has the 
+greatest influence on how smoothly the game runs. The lower the 
+resolution, the better the performance.
+
+Window Mode - If this option is on, the performance can be reduced,
+especially if other applications are running as well. We highly
+recommend that all other applications be shut down when playing Mass
+Effect 3.
+
+Dynamic Shadows - This significantly affects performance on machines
+between the minimum and recommended system specifications. Turning
+this off will increase performance.
+
+Anisotropic Filtering Level - This moderately affects performance on
+machines between the minimum and recommended system specifications.
+Turning this off will increase performance.
+
+Motion Blur - Turning this off will increase performance slightly on
+machines near our minimum specifications.
+
+
+Importing a Mass Effect 2 Career
+--------------------------------
+To import a Mass Effect 2 save file from an old computer to the one in
+which Mass Effect 3 is currently installed, copy your old career
+folders to: <My Documents>\BioWare\Mass Effect 2\Save\
+
+To copy your Mass Effect 3 save files to another computer, copy your
+current career(s) to: <My Documents>\BioWare\Mass Effect 3\Save\
+
+The career files on your old computer will be stored in the same
+locations.
+
+
+Known Issues
+------------
+Mass Effect 3 does not run optimally on a computer with a single-core
+CPU. We recommend that you do not play Mass Effect on a system with a 
+single-core CPU.
+
+On some video cards (NVidia 7000 series), Mass Effect 3 may display
+bright white spots on some parts of the floor or walls. This issue can
+be resolved by turning off the "Texture filtering - Anisotropic sample
+optimization" setting in the NVidia Control Panel.
+
+There is a known issue that can cause graphical artifacts when running
+an NVidia 7950 GT video card on Windows XP. To reduce the potential for
+this issue, please select the "Let the 3D application decide" choice from
+the NVIDIA Control Panel in the "3D Settings/Adjust image settings with
+preview" section.
+
+Computers with AMD Dual Core CPUs may experience instability if the AMD 
+Dual Core Optimizer software is not installed.  The AMD Dual Core Optimizer 
+software can be obtained for free from the AMD website.
+
+
+Online Ports
+------------
+To enable online functionality, the following ports must be opened on
+the client PC.
+
+TCP 42100 
+TCP Port Range 15200-15300
+TCP Port Range 9945-9994
+TCP 80
+
+
+Support & Troubleshooting
+-------------------------
+Canada
+https://help.ea.com/ca/
+
+United Kingdom:
+https://help.ea.com/uk/
+
+United States
+https://help.ea.com/en/
+
+
+Special Thanks from BioWare
+---------------------------
+A special thanks to the fans and friends of BioWare. Your thoughts
+and feedback on our website forums drive us to make great games.
